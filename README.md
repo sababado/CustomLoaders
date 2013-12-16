@@ -2,7 +2,7 @@ CustomLoaders
 =============
 
 #Usage: `StringPreferencesLoader`
-_Based on [Commonsware's `SharedPreferenceLoader`]_
+_Based on [Commonsware's `SharedPreferenceLoader`](https://github.com/commonsguy/cwac-loaderex)_
 
 There are two implementations, one for native API Level 11+ development (in the base `com.sababado.content` package) and one for use with the Android Support package (in the `com.sababado.support.v4.content` package).
 
